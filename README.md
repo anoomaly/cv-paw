@@ -1,2 +1,0 @@
-# cv-paw
-PAW CV
